@@ -11,7 +11,7 @@ wget https://raw.githubusercontent.com/AY-ME/rdb/main/copy-redis-remotely.sh
 chmod +x copy-redis-remotely.sh
 ```
 
-Then run it by:
+Then, run it by:
 
 ```./copy-redis-remotely.sh```
 
