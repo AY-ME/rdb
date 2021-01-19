@@ -22,6 +22,8 @@ Will ask you for:
 NOTE: if he ask you for (yes/no) enter yes .
 
 ## Contact 
+
 [Telegram](https://t.me/K6KKK)
+
 [TelegramBot](https://t.me/The_God_FatherBot)
 
