@@ -1,8 +1,8 @@
-#rdb
+##rdb
 
 This script can help you to copy redis dump.rdb file to another ubuntu 16.04 by ```scp``` command
 
-#Usage
+##Usage
 
 First, install the script and make it executable:
 
