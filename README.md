@@ -1,6 +1,6 @@
 # rdb
 
-This script can help you to copy redis dump.rdb file to another ubuntu 16.04 server by ```scp``` command
+This script can help you to copy redis dump.rdb file to another ubuntu 16+ server by ```scp``` command
 
 ## Usage
 
